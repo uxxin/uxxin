@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Yujin%20Yang⛄️&color=87CEEB&height=250&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yang%20Yujin"/>
 
 
 ## 🛠️ 기술 스택
