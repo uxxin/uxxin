@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:EE82EE,100:FF1493&text=Yujin%20Yang)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yujin%20textYang)
 
 
 ## 🛠️ 기술 스택
