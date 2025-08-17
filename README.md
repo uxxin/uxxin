@@ -19,12 +19,6 @@ React.js와 TypeScript로 동적 웹 페이지를 만들고 사용자 경험 최
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=uxxin&show_icons=true&theme=radical&count_private=true)](https://github.com/uxxin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxxin&layout=compact&theme=radical)](https://github.com/uxxin/github-readme-stats)
 
-## 🌱 현재 배우는 것
-Next.js 기반 웹앱 개발  
-React + TypeScript 심화  
-웹 성능 최적화 & 접근성 개선
-
-
 ## My Log
 <a href="https://velog.io/@uxxin2da"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
