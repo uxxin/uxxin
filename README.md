@@ -13,7 +13,7 @@ React.js와 TypeScript로 동적 웹 페이지를 만들고 사용자 경험 최
 
 ## 🔗 프로젝트
 **READ ME!** – 공지 확인 도구, 팀 운영 효율화  
-[GitHub 링크](https://github.com/uxxin/read-me)
+[GitHub 링크](https://github.com/uxxin/README-FE)
 
 ## 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=uxxin&show_icons=true&theme=radical&count_private=true)](https://github.com/uxxin/github-readme-stats)
