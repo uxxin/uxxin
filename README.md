@@ -24,8 +24,6 @@ Next.js 기반 웹앱 개발
 React + TypeScript 심화  
 웹 성능 최적화 & 접근성 개선
 
-## ⚡ Fun Fact
-디자인과 개발 사이에서 균형 찾기 중
 
 ## My Log
 <a href="https://velog.io/@uxxin2da"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
