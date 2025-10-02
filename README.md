@@ -27,6 +27,7 @@
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxxin&layout=compact&theme=radical)](https://github.com/uxxin/github-readme-stats)
+[![uxxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxxin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
