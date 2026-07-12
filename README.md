@@ -25,8 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxxin&theme=dark&show_icons=true)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=uxxin)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## 🐼 Contact Me
