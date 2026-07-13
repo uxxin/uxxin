@@ -24,10 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=uxxin)](https://github.com/stats-organization/github-stats-extended)
----
-
 ## 🐼 Contact Me
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dbwlsdid1114@naver.com)](mailto:dbwlsdid1114@naver.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@uxxin2da)](https://velog.io/@uxxin2da)
