@@ -1,7 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Yang%20Yujin)
-
 
 ## 🛠️ 기술 스택
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
